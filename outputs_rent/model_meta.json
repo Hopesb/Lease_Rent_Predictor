@@ -1,0 +1,12 @@
+{
+  "winner": "CatBoost",
+  "features": [
+    "has_estate",
+    "addr_last2",
+    "notes",
+    "city",
+    "street_name"
+  ],
+  "target": "annual rent (naira)",
+  "max_plausible_rent": 100000000
+}

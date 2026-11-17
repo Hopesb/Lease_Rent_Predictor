@@ -1,0 +1,16 @@
+{
+  "CatBoost": [
+    "has_estate",
+    "addr_last2",
+    "notes",
+    "city",
+    "street_name"
+  ],
+  "XGBoost": [
+    "addr_last2",
+    "city",
+    "has_estate",
+    "property_name",
+    "notes"
+  ]
+}

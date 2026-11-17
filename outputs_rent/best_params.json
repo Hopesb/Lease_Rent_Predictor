@@ -1,0 +1,21 @@
+{
+  "CatBoost": {
+    "model__bagging_temperature": 0.7553468874760925,
+    "model__depth": 4,
+    "model__iterations": 486,
+    "model__l2_leaf_reg": 2.4629279435065223,
+    "model__learning_rate": 0.023473941999051617,
+    "model__random_strength": 0.11066084206359839
+  },
+  "XGBoost": {
+    "model__colsample_bytree": 0.6186245437484,
+    "model__gamma": 0.6507993963185355,
+    "model__learning_rate": 0.09358531566329122,
+    "model__max_depth": 4,
+    "model__min_child_weight": 1,
+    "model__n_estimators": 739,
+    "model__reg_alpha": 0.18760068220300655,
+    "model__reg_lambda": 0.020380893445789243,
+    "model__subsample": 0.7470863212237734
+  }
+}
